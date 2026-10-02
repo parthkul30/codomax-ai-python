@@ -33,9 +33,6 @@ codomax-ai-python/
 │
 ├── README.md
 │
-├── learning_notes/
-│   └── AI_Python_Learning_Notes.md
-│
 └── python_basics/
     ├── 01_hello_world.py
     ├── 02_variables.py
